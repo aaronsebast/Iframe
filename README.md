@@ -12,7 +12,7 @@ This is a simple repository for a example of iframe tags in html
 
 ### Installation
 
-- 1. Clone the repository:
+- Clone the repository:
 ```bash
  git clone https://github.com/aaronsebast/Iframe.git
 ```
